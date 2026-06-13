@@ -94,7 +94,7 @@ To ensure the premium sound profile activates every time you log in:
 - Select the Advanced Audio Gain profile under the Presets tab.
 
 ## 📜 License & Credits
-- Audio patches provided by the open-source community via [egorenar/snd-hda-macbookpro](https://github.com/egorenar/snd-hda-macbookpro).
+- Audio patches provided by the open-source community via [davidjo/snd-hda-macbookpro](https://github.com/davidjo/snd_hda_macbookpro).
 - Acoustic EQ curves curated from the [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) repository.
    
 ---
